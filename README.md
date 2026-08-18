@@ -78,9 +78,9 @@ SEMICON/
 ├── restored_test_outputs/
 │   └── ...
 │
-├── train_v3.py
+├── Run.py
 │
-├── evaluate.py
+├── visualizer_v3.py
 │
 ├── requirements.txt
 │
